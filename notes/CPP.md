@@ -1,7 +1,7 @@
 # C++
 
 ## Session recording
-[Video](TBD) will be shared here after lecture.
+Recording will be shared here after lecture.
 
 ---
 
