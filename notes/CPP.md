@@ -1,7 +1,7 @@
 # C++
 
 ## Session recording
-Recording will be shared here after lecture.
+Recording: [YouTube Link](https://youtu.be/LokfvY8z3z4?si=xLLAWei-9JJyWEV5)
 
 ---
 
